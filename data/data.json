@@ -1,0 +1,154 @@
+[
+    {
+    "question":"How many mayors does Delhi have? Hint: Mumbai has one.",
+    "options":[
+        {
+            "opt":"One",
+            "response":"<p>You are living under a rock. The last time Delhi had only one mayor was in 2011.</p><p><img class='answer-gif' src='http://www.hindustantimes.com/interactives/quiz/how-much-do-you-know-about-delhi-mcd-elections/gifs/question-1/wake_up_stone.gif'></p><p><b>Fact</b>: Delhi has three mayors, one each for North, South and East Delhi Municipal Corporations. In 2012, the Municipal Corporation of Delhi was trifurcated into smaller civic bodies.</p>"
+        },
+        {
+            "opt":"Two",
+            "response":"<p>Face palm!</p><p><img class='answer-gif' src='http://www.hindustantimes.com/interactives/quiz/how-much-do-you-know-about-delhi-mcd-elections/gifs/question-1/facepalm_for_question_1.gif'></p><p><b>Fact</b>: Delhi has three mayors, one each for North, South and East Delhi Municipal Corporations. In 2012, the Municipal Corporation of Delhi was trifurcated into smaller civic bodies.</p>"
+        },
+        {
+            "opt":"Three",
+            "response":"<p>Thumbs up! Now, tip your newspaper wallah for keeping you updated.</p><p><img class='answer-gif' src='http://www.hindustantimes.com/interactives/quiz/how-much-do-you-know-about-delhi-mcd-elections/gifs/question-1/thumbs_up_for_question_1.gif'></p><p><b>Fact</b>: Delhi has three mayors, one each for North, South and East Delhi Municipal Corporations. In 2012, the Municipal Corporation of Delhi was trifurcated into smaller civic bodies.</p>"
+        }
+    ]
+},
+{
+    "question":"Delhi goes to polls next month. Who do you elect in an MCD election? Hint: Think hard, think low.",
+    "options":[
+        {
+            "opt":"MP (Member of Parliament)",
+            "response":"<p>No. You elect an MP to Lok Sabha in a countrywide election. The last such elections were held in 2014. MPs have no role in a civic body.</p><p><img class='answer-gif' src='http://www.hindustantimes.com/interactives/quiz/how-much-do-you-know-about-delhi-mcd-elections/gifs/question-2/oh_no_you_didnt.gif'></p><p><b>Fact:</b> In the civic polls on April 22, 272 councillors to the three municipal corporations will be elected. So, for the sake of better Delhi, please do vote.</p>"
+        },
+        {
+            "opt":"Councillor",
+            "response": "<p>Bravo! You got it right. Let’s see if you can answer the rest.</p><p><img class='answer-gif' src='http://www.hindustantimes.com/interactives/quiz/how-much-do-you-know-about-delhi-mcd-elections/gifs/question-2/bravo.gif'></p><p><b>Fact:</b> In the civic polls on April 22, 272 councillors to the three municipal corporations will be elected. So, for the sake of better Delhi, please do vote.</p>"
+        },
+        {
+            "opt":"MLA (Member of Legislative Assembly)",
+            "response":"<p>Wrong. Clearly, you slept through civics classes in school. Delhi last elected its MLAs in the 2015 assembly elections. Delhi currently has 66 legislators from AAP and three from the BJP. One seat fell vacant after the AAP MLA from Rajouri Garden resigned. A bypoll for this seat is on April 9.</p><p><img class='answer-gif' src='http://www.hindustantimes.com/interactives/quiz/how-much-do-you-know-about-delhi-mcd-elections/gifs/question-2/lazy_student.gif'></p><p><b>Fact:</b> In the civic polls on April 22, 272 councillors to the three municipal corporations will be elected. So, for the sake of better Delhi, please do vote.</p>"
+        }
+
+    ]
+},
+{
+    "question":"You all know about Lutyens’ Delhi &mdash; the majestic Connaught Place, the sprawling VIP bungalows, and the tree-lined avenues. Now, tell us, which civic body is in charge of Lutyens’ Delhi? Hint: Think outside the box.",
+    "options":[
+        {
+            "opt":"North or South Delhi Municipal Corporations",
+            "response":"<p>Wrong. We know Lutyens’ Delhi is special but one municipality is enough to run this VIP enclave.</p><p><img class='answer-gif' src='http://www.hindustantimes.com/interactives/quiz/how-much-do-you-know-about-delhi-mcd-elections/gifs/question-3/wrong_wrong_wrong.gif'></p><p><b>Fact:</b> A separate municipal body called the New Delhi Municipal Council (NDMC) is responsible for the upkeep of Lutyens’ Delhi, which is 3% of Delhi’s area. Unlike the municipal corporations, there are no councillors or mayors here. It is not an elected body. The head is an IAS officer, who reports to the Union Home Ministry.</p>"
+        },
+        {
+            "opt":"East Delhi Municipal Corporation",
+            "response":"<p>What? It seems you don’t travel around much in Delhi. It's time you buy a map.</p><p><img class='answer-gif' src='http://www.hindustantimes.com/interactives/quiz/how-much-do-you-know-about-delhi-mcd-elections/gifs/question-3/stop_acting_stupid.gif'></p><p><b>Fact:</b> A separate municipal body called the New Delhi Municipal Council (NDMC) is responsible for the upkeep of Lutyens’ Delhi, which is 3% of Delhi’s area. Unlike the municipal corporations, there are no councillors or mayors here. It is not an elected body. The head is an IAS officer, who reports to the Union Home Ministry.</p>"
+        },
+        {
+            "opt":"None of the above",
+            "response":"<p>Impressive! You did not fall into our trap.</p><p><img class='answer-gif' src='http://www.hindustantimes.com/interactives/quiz/how-much-do-you-know-about-delhi-mcd-elections/gifs/question-3/jackpot.gif'></p><p><b>Fact:</b> A separate municipal body called the New Delhi Municipal Council (NDMC) is responsible for the upkeep of Lutyens’ Delhi, which is 3% of Delhi’s area. Unlike the municipal corporations, there are no councillors or mayors here. It is not an elected body. The head is an IAS officer, who reports to the Union Home Ministry.</p>"
+        } 
+    ]
+},
+{
+    "question":"Now answer this. How many civic agencies are there in Delhi? Hint: Unlearn whatever we told you till now.",
+    "options":[
+        {
+            "opt":"Three",
+            "response":"<p>Wrong. Just because we told you the MCD was trifurcated in 2012, it does not mean we told you all.</p><p><img class='answer-gif' src='http://www.hindustantimes.com/interactives/quiz/how-much-do-you-know-about-delhi-mcd-elections/gifs/question-4/fooled_you.gif'></p><p><b>Fact:</b> Delhi has five civic agencies &mdash; the North, South and East Municipal Corporations controlling 96% of Delhi’s area; Delhi Cantonment Board managing 1% of the city; and the New Delhi Municipal Council (NDMC), which is 3% of the national capital. While the first four are elected bodies, NDMC is not. Also, while the NDMC and the three MCDs report to the Union Home Ministry, the DCB reports to the Ministry of Defence.</p>"
+        },
+        {
+            "opt":"Four",
+            "response":"<p>Naah!</p><p><img class='answer-gif' src='http://www.hindustantimes.com/interactives/quiz/how-much-do-you-know-about-delhi-mcd-elections/gifs/question-4/nah_nah.gif'></p><p><b>Fact:</b> Delhi has five civic agencies &mdash; the North, South and East Municipal Corporations controlling 96% of Delhi’s area; Delhi Cantonment Board managing 1% of the city; and the New Delhi Municipal Council (NDMC), which is 3% of the national capital. While the first four are elected bodies, NDMC is not. Also, while the NDMC and the three MCDs report to the Union Home Ministry, the DCB reports to the Ministry of Defence.</p>"
+        },
+        {
+            "opt":"Five",
+            "response":"<p>Bingo. You know Delhi well.</p><p><img class='answer-gif' src='http://www.hindustantimes.com/interactives/quiz/how-much-do-you-know-about-delhi-mcd-elections/gifs/question-4/200w_d.gif'></p><p><b>Fact:</b> Delhi has five civic agencies &mdash; the North, South and East Municipal Corporations controlling 96% of Delhi’s area; Delhi Cantonment Board managing 1% of the city; and the New Delhi Municipal Council (NDMC), which is 3% of the national capital. While the first four are elected bodies, NDMC is not. Also, while the NDMC and the three MCDs report to the Union Home Ministry, the DCB reports to the Ministry of Defence.</p>"
+        }
+    ]
+},
+{
+    "question":"What is special about the headquarters of the North and South Delhi Municipal Corporations? Hint: Think big.",
+    "options":[
+        {
+            "opt":"It is the tallest building in Delhi.",
+            "response":"<p>Super. A view of Delhi’s skyline from the top is a must.</p><p><img class='answer-gif' src='http://www.hindustantimes.com/interactives/quiz/how-much-do-you-know-about-delhi-mcd-elections/gifs/question-5/tall.gif'></p><p><b>Fact:</b> The 28-storey Shyama Prasad Mukherjee Civic Centre, the headquarters of North and South Delhi Municipal Corporations, is the tallest building in Delhi. At 112 metres, it is even taller than Qutab Minar. The head office of East Delhi Municipal Corporation is at Udyog Sadan in Patparganj Industrial Area.</p>"
+        },
+        {
+            "opt":"It is a 17th century heritage building.",
+            "response":"<p>Wrong. We all love Delhi’s rich heritage but this is not the correct answer.</p><p><img class='answer-gif' src='http://www.hindustantimes.com/interactives/quiz/how-much-do-you-know-about-delhi-mcd-elections/gifs/question-5/wrong_answer_girl.gif'></p><p><b>Fact:</b> The 28-storey Shyama Prasad Mukherjee Civic Centre, the headquarters of North and South Delhi Municipal Corporations, is the tallest building in Delhi. At 112 metres, it is even taller than Qutab Minar. The head office of East Delhi Municipal Corporation is at Udyog Sadan in Patparganj Industrial Area.</p>"
+        },
+        {
+            "opt":"It is called the Players’ Building.",
+            "response":"<p>Wrong. Don’t confuse Chief Minister Arvind Kejriwal’s office with the civic bodies.</p><p><img class='answer-gif' src='http://www.hindustantimes.com/interactives/quiz/how-much-do-you-know-about-delhi-mcd-elections/gifs/question-5/kejriwal.gif'></p><p><b>Fact:</b> The 28-storey Shyama Prasad Mukherjee Civic Centre, the headquarters of North and South Delhi Municipal Corporations, is the tallest building in Delhi. At 112 metres, it is even taller than Qutab Minar. The head office of East Delhi Municipal Corporation is at Udyog Sadan in Patparganj Industrial Area.</p>"
+        }
+    ]
+},
+{
+    "question": "After how many years are municipal elections held? Hint: Remember, in India, even a civic poll can be a logistical challenge.",
+    "options": [
+        {
+            "opt":"Two years",
+            "response":"<p>Wrong. Are elections in India so easy to conduct?</p><p><img class='answer-gif' src='http://www.hindustantimes.com/interactives/quiz/how-much-do-you-know-about-delhi-mcd-elections/gifs/question-6/no_wrong.gif'></p><p><b>Fact:</b> Except Jammu and Kashmir, all elections in India &mdash; whether for Lok Sabha, state legislative assemblies, municipalities or panchayats &mdash; are held every five years. The MCD election is on April 22. Go vote; make a difference.</p>"
+        },
+        {
+            "opt":"Four years",
+            "response":"<p>Very close, but wrong. This is a municipal poll and not the FIFA World Cup.</p><p><img class='answer-gif' src='http://www.hindustantimes.com/interactives/quiz/how-much-do-you-know-about-delhi-mcd-elections/gifs/question-6/close_but_no.gif'></p><p><b>Fact:</b> Except Jammu and Kashmir, all elections in India &mdash; whether for Lok Sabha, state legislative assemblies, municipalities or panchayats &mdash; are held every five years. The MCD election is on April 22. Go vote; make a difference.</p>"
+        },
+        {
+            "opt":"Five years",
+            "response":"<p>Correct. Okay, this one was easy.</p><p><img class='answer-gif' src='http://www.hindustantimes.com/interactives/quiz/how-much-do-you-know-about-delhi-mcd-elections/gifs/question-6/correct.gif'></p><p><b>Fact:</b> Except Jammu and Kashmir, all elections in India &mdash; whether for Lok Sabha, state legislative assemblies, municipalities or panchayats &mdash; are held every five years. The MCD election is on April 22. Go vote; make a difference.</p>"
+        }
+    ]
+},
+{
+    "question": "If there is garbage piled up outside your house, whose responsibility is it to clear it? Also, whom should you call to unclog the waterlogged roads in your neighbourhood?",
+    "options": [
+        {
+            "opt":"Delhi government",
+            "response":"<p>Wrong.</p><p><img class='answer-gif' src='http://www.hindustantimes.com/interactives/quiz/how-much-do-you-know-about-delhi-mcd-elections/gifs/question-7/wrong.gif'></p><p><b>Fact:</b> It is the municipalities’ responsibility to ensure that neighbourhoods in their jurisdiction are clean. If they aren’t, report it to the official helpline. It is the municipal workers who collect garbage, sweep the streets and maintain parks.</p>"
+        },
+        {
+            "opt":"Civic bodies",
+            "response":"<p>Correct. You seem to be a sufferer. Hope, all’s clean now.</p><p><img class='answer-gif' src='http://www.hindustantimes.com/interactives/quiz/how-much-do-you-know-about-delhi-mcd-elections/gifs/question-7/correct.gif'></p><p><b>Fact:</b> It is the municipalities’ responsibility to ensure that neighbourhoods in their jurisdiction are clean. If they aren’t, report it to the official helpline.  It is the municipal workers who collect garbage, sweep the streets and maintain parks.</p>"
+        },
+        {
+            "opt":"Resident welfare association",
+            "response":"<p>Seriously? Your resident association may be generous to have hired private sweepers, but keeping the streets clean is not its job.</p><p><img class='answer-gif' src='http://www.hindustantimes.com/interactives/quiz/how-much-do-you-know-about-delhi-mcd-elections/gifs/question-7/seriously.gif'></p><p><b>Fact:</b> It is the municipalities’ responsibility to ensure that neighbourhoods in their jurisdiction are clean. If they aren’t, report it to the official helpline.  It is the municipal workers who collect garbage, sweep the streets and maintain parks.</p>"
+        }
+    ]
+},
+{
+    "question": "Which agency issues a birth certificate for your newborn? Hint: If you were born in Delhi, go check your certificate.",
+    "options": [
+        {
+            "opt":"Municipality",
+            "response":"<p>Correct. You were born smart.</p><p><img class='answer-gif' src='http://www.hindustantimes.com/interactives/quiz/how-much-do-you-know-about-delhi-mcd-elections/gifs/question-8/born_intelligent.gif'></p><p><b>Fact:</b>  Each of the five municipalities in Delhi issues birth certificates to children born in the areas under its jurisdiction. In MCD zones, the process of getting a certificate takes up to two weeks after you have submitted a form.</p>"
+        },
+        {
+            "opt":"Private hospital",
+            "response":"<p>Sorry, no. We know you would prefer a swanky private hospital to bring your baby into this world. But private hospitals can’t issue birth certificates.</p><p><img class='answer-gif' src='http://www.hindustantimes.com/interactives/quiz/how-much-do-you-know-about-delhi-mcd-elections/gifs/question-8/sorry_no_baby.gif'></p><p><b>Fact:</b>  Each of the five municipalities in Delhi issues birth certificates to children born in the areas under its jurisdiction. In MCD zones, the process of getting a certificate takes up to two weeks after you have submitted a form.</p>"
+        },
+        {
+            "opt":"Government hospital",
+            "response":"<p>Wrong.</p><p><img class='answer-gif' src='http://www.hindustantimes.com/interactives/quiz/how-much-do-you-know-about-delhi-mcd-elections/gifs/question-8/wrong_hospitals.gif'></p><p><b>Fact:</b>  Each of the five municipalities in Delhi issues birth certificates to children born in the areas under its jurisdiction. In MCD zones, the process of getting a certificate takes up to two weeks after you have submitted a form.</p>"
+        }
+    ]
+},{
+    "question": "How are civic corporations divided for municipal governance?",
+    "options": [
+        {
+            "opt":"Divided into assembly segments",
+            "response":"<p>Wrong. Get over the 2015 assembly elections, when AAP swept their broom across 67 out of 70 assembly seats.</p><p><img class='answer-gif' src='http://www.hindustantimes.com/interactives/quiz/how-much-do-you-know-about-delhi-mcd-elections/gifs/question-9/assembly_constituency.gif'></p><p><b>Fact:</b> Delhi has 272 municipal wards, each headed by a councillor representing a political party. They could even be independent candidates. The party that wins at least half the seats takes over the elected wing of the municipality.</p><div class='social-shares'><a href='https://www.facebook.com/sharer/sharer.php?u=http://www.hindustantimes.com/interactives/quiz/how-much-do-you-know-about-delhi-mcd-elections' target='_blank'><div class='facebook social'><i class='fa fa-facebook' aria-hidden='true'></i><span>share</span></div></a><a href='http://twitter.com/intent/tweet?url=http://www.hindustantimes.com/interactives/quiz/how-much-do-you-know-about-delhi-mcd-elections&amp;text= How well do you know Delhi? Try this quiz. &amp;via=httweets' target='_blank'><div class='twitter social'><i class='fa fa-twitter' aria-hidden='true'></i><span>tweet</span></div></a><a href='whatsapp://send?text=How well do you know Delhi? Try this quiz. http://www.hindustantimes.com/interactives/quiz/how-much-do-you-know-about-delhi-mcd-elections' data-action='share/whatsapp/share'><div class='whatsapp social'><i class='fa fa-whatsapp' aria-hidden='true'></i></div></a></div>"
+        },
+        {
+            "opt":"Divided into Lok Sabha constituencies",
+            "response":"<p>Nope. Delhi has only seven constituencies. The BJP won all of them in the 2014 general elections. Remember Modi’s 7-0 score?</p><p><img class='answer-gif' src='http://www.hindustantimes.com/interactives/quiz/how-much-do-you-know-about-delhi-mcd-elections/gifs/question-9/parliamentary.gif'></p><p><b>Fact:</b> Delhi has 272 municipal wards, each headed by a councillor representing a political party. They could even be independent candidates. The party that wins at least half the seats takes over the elected wing of the municipality.</p><div class='social-shares'><a href='https://www.facebook.com/sharer/sharer.php?u=http://www.hindustantimes.com/interactives/quiz/how-much-do-you-know-about-delhi-mcd-elections' target='_blank'><div class='facebook social'><i class='fa fa-facebook' aria-hidden='true'></i><span>share</span></div></a><a href='http://twitter.com/intent/tweet?url=http://www.hindustantimes.com/interactives/quiz/how-much-do-you-know-about-delhi-mcd-elections&amp;text= How well do you know Delhi? Try this quiz. &amp;via=httweets' target='_blank'><div class='twitter social'><i class='fa fa-twitter' aria-hidden='true'></i><span>tweet</span></div></a><a href='whatsapp://send?text=How well do you know Delhi? Try this quiz. http://www.hindustantimes.com/interactives/quiz/how-much-do-you-know-about-delhi-mcd-elections' data-action='share/whatsapp/share'><div class='whatsapp social'><i class='fa fa-whatsapp' aria-hidden='true'></i></div></a></div>"
+        },
+        {
+            "opt":"Divided into municipal wards",
+            "response":"<p>Voila! So, you know it’s not just hospitals that have wards.</p><p><img class='answer-gif' src='http://www.hindustantimes.com/interactives/quiz/how-much-do-you-know-about-delhi-mcd-elections/gifs/question-9/voila.gif'></p><p><b>Fact:</b> Delhi has 272 municipal wards, each headed by a councillor representing a political party. They could even be independent candidates. The party that wins at least half the seats takes over the elected wing of the municipality.</p><div class='social-shares'><a href='https://www.facebook.com/sharer/sharer.php?u=http://www.hindustantimes.com/interactives/quiz/how-much-do-you-know-about-delhi-mcd-elections' target='_blank'><div class='facebook social'><i class='fa fa-facebook' aria-hidden='true'></i><span>share</span></div></a><a href='http://twitter.com/intent/tweet?url=http://www.hindustantimes.com/interactives/quiz/how-much-do-you-know-about-delhi-mcd-elections&amp;text= How well do you know Delhi's government? Try this quiz. &amp;via=httweets' target='_blank'><div class='twitter social'><i class='fa fa-twitter' aria-hidden='true'></i><span>tweet</span></div></a><a href='whatsapp://send?text=How well do you know Delhi's government? Try this quiz. http://www.hindustantimes.com/interactives/quiz/how-much-do-you-know-about-delhi-mcd-elections' data-action='share/whatsapp/share'><div class='whatsapp social'><i class='fa fa-whatsapp' aria-hidden='true'></i></div></a></div>"
+        }
+    ]
+}]
